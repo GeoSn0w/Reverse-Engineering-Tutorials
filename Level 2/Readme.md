@@ -12,4 +12,4 @@ Your goal:
 You need to use Radare2 (or any other disassembler and debugger) to analyze the binary, find the algorithm behind the keycheck and bypass it.
 
 Tutorials:
-Tutorial soon.
+https://www.youtube.com/watch?v=hy81mnLMvnE
