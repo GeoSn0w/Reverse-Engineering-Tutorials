@@ -1,3 +1,5 @@
+//GeoSn0w's Reverse Engineering Tutorial
+//Use the code as you want, WTFPL
 #include <string.h>
 #include <stdio.h>
 #include <time.h>
