@@ -1,5 +1,5 @@
 # Reverse-Engineering-Tutorials
-Some Reverse Engineering Tutorials for Beginners interested in INFOSEC.
+Some Reverse Engineering Tutorials from a beginner for beginners interested in INFOSEC.
 
 I group them by levels, I usually provide a compiled crack-me tool that you need to practice on and a tutorial.
 The source code (in C) for the crack-me tool is always available in the level folder.
