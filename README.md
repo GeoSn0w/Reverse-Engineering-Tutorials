@@ -2,7 +2,7 @@
 Some Reverse Engineering Tutorials from a beginner for beginners interested in INFOSEC.
 
 I group them by levels, I usually provide a compiled crack-me tool that you need to practice on and a tutorial.
-The source code (in C) for the crack-me tool is always available in the level folder.
+The source code for the crack-me is most of the times available in the level folder. I sometimes also provide precompiled macOS binaries.
 
 Tools you might need during this:
 * Radare2: http://radare.org
